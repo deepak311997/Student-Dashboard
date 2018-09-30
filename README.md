@@ -1,6 +1,6 @@
-# CAST AIP Lite
+# Student Dashboard
 
-This delivers graphical user interface for developers to get access to violations on their files.
+This delivers graphical user interface for students to get access to their data.
 
 ## Install dependencies
 
@@ -59,4 +59,3 @@ mandatory, therefore you're free to choose other library for it.
 ## Styles
 
 To create your CSS you're able to use all the features provided by [SASS](http://sass-lang.com/).
-
