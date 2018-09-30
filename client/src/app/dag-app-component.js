@@ -5,9 +5,7 @@ import DAGAppHeader from './header/dag-header-component';
 class App extends React.Component {
   render() {
     return (
-      <div>
-        <DAGAppHeader {...this.props} />
-      </div>
+        <DAGAppHeader/>
     );
   }
 }

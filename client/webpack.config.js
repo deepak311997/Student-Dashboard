@@ -75,7 +75,7 @@ module.exports = {
     filename: '[name].bundle.[hash].js',
   },
   devServer: {
-    port: 8080,
+    port: 3000,
     contentBase: '../Student-Dashboard/client',
     // Host for testing in VM
     allowedHosts: ['10.0.2.2'],

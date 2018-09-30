@@ -1,22 +1,13 @@
 @import "scss/dag-variables";
 @import "./header/dag-header";
-@import "./files/dag-files";
+@import "./route/dag-route";
 
 body {
   margin: 0;
   padding: 0;
+  width: 100%;
   height: 100%;
   background-color: rgba(216,219,239,.3);
-}
-
-.dag-content {
-  padding: 2rem;
-}
-
-.disabled {
-  pointer-events: none;
-  background-color: #e8e8e8;
-  opacity: 0.3;
 }
 
 @font-face{font-family: Osr;
