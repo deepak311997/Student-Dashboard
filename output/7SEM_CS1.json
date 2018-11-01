@@ -1,0 +1,1036 @@
+[
+  {
+    Branch: "COMPUTER SCIENCE",
+    Semester: 7,
+    Usn: "1AT15CS020",
+    Name: "Deepak V",
+    PhoneNo: 8147900416,
+    ParentNo: 9448683659,
+    Attendence:
+    [
+      {
+        SubjectName: "15CS71",
+        Percentage: 70,
+      },
+      {
+        SubjectName: "15CS72",
+        Percentage: 72,
+      },
+      {
+        SubjectName: "15CS73",
+        Percentage: 80,
+      },
+      {
+        SubjectName: "15CS74",
+        Percentage: 85,
+      },
+      {
+        SubjectName: "15CS75",
+        Percentage: 90,
+      },
+      {
+        SubjectName: "15CS76",
+        Percentage: 92,
+      },
+      {
+        SubjectName: "15CS73L",
+        Percentage: 60,
+      },
+      {
+        SubjectName: "15CS74L",
+        Percentage: 70,
+      }
+    ],
+    Internals:
+    [
+      {
+        SubjectName: "15CS71",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS72",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS73",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS74",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS75",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS76",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS73L",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS74L",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+    ]
+  },
+  {
+    Branch: "COMPUTER SCIENCE",
+    Semester: 7,
+    Usn: "1AT15CS020",
+    Name: "Deepak V",
+    PhoneNo: 8147900416,
+    ParentNo: 9448683659,
+    Attendence:
+    [
+      {
+        SubjectName: "15CS71",
+        Percentage: 70,
+      },
+      {
+        SubjectName: "15CS72",
+        Percentage: 72,
+      },
+      {
+        SubjectName: "15CS73",
+        Percentage: 80,
+      },
+      {
+        SubjectName: "15CS74",
+        Percentage: 85,
+      },
+      {
+        SubjectName: "15CS75",
+        Percentage: 90,
+      },
+      {
+        SubjectName: "15CS76",
+        Percentage: 92,
+      },
+      {
+        SubjectName: "15CS73L",
+        Percentage: 60,
+      },
+      {
+        SubjectName: "15CS74L",
+        Percentage: 70,
+      }
+    ],
+    Internals:
+    [
+      {
+        SubjectName: "15CS71",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS72",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS73",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS74",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS75",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS76",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS73L",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS74L",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+    ]
+  },
+  {
+    Branch: "COMPUTER SCIENCE",
+    Semester: 7,
+    Usn: "1AT15CS020",
+    Name: "Deepak V",
+    PhoneNo: 8147900416,
+    ParentNo: 9448683659,
+    Attendence:
+    [
+      {
+        SubjectName: "15CS71",
+        Percentage: 70,
+      },
+      {
+        SubjectName: "15CS72",
+        Percentage: 72,
+      },
+      {
+        SubjectName: "15CS73",
+        Percentage: 80,
+      },
+      {
+        SubjectName: "15CS74",
+        Percentage: 85,
+      },
+      {
+        SubjectName: "15CS75",
+        Percentage: 90,
+      },
+      {
+        SubjectName: "15CS76",
+        Percentage: 92,
+      },
+      {
+        SubjectName: "15CS73L",
+        Percentage: 60,
+      },
+      {
+        SubjectName: "15CS74L",
+        Percentage: 70,
+      }
+    ],
+    Internals:
+    [
+      {
+        SubjectName: "15CS71",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS72",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS73",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS74",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS75",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS76",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS73L",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS74L",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+    ]
+  },
+  {
+    Branch: "COMPUTER SCIENCE",
+    Semester: 7,
+    Usn: "1AT15CS020",
+    Name: "Deepak V",
+    PhoneNo: 8147900416,
+    ParentNo: 9448683659,
+    Attendence:
+    [
+      {
+        SubjectName: "15CS71",
+        Percentage: 70,
+      },
+      {
+        SubjectName: "15CS72",
+        Percentage: 72,
+      },
+      {
+        SubjectName: "15CS73",
+        Percentage: 80,
+      },
+      {
+        SubjectName: "15CS74",
+        Percentage: 85,
+      },
+      {
+        SubjectName: "15CS75",
+        Percentage: 90,
+      },
+      {
+        SubjectName: "15CS76",
+        Percentage: 92,
+      },
+      {
+        SubjectName: "15CS73L",
+        Percentage: 60,
+      },
+      {
+        SubjectName: "15CS74L",
+        Percentage: 70,
+      }
+    ],
+    Internals:
+    [
+      {
+        SubjectName: "15CS71",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS72",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS73",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS74",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS75",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS76",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS73L",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS74L",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+    ]
+  },
+  {
+    Branch: "COMPUTER SCIENCE",
+    Semester: 7,
+    Usn: "1AT15CS020",
+    Name: "Deepak V",
+    PhoneNo: 8147900416,
+    ParentNo: 9448683659,
+    Attendence:
+    [
+      {
+        SubjectName: "15CS71",
+        Percentage: 70,
+      },
+      {
+        SubjectName: "15CS72",
+        Percentage: 72,
+      },
+      {
+        SubjectName: "15CS73",
+        Percentage: 80,
+      },
+      {
+        SubjectName: "15CS74",
+        Percentage: 85,
+      },
+      {
+        SubjectName: "15CS75",
+        Percentage: 90,
+      },
+      {
+        SubjectName: "15CS76",
+        Percentage: 92,
+      },
+      {
+        SubjectName: "15CS73L",
+        Percentage: 60,
+      },
+      {
+        SubjectName: "15CS74L",
+        Percentage: 70,
+      }
+    ],
+    Internals:
+    [
+      {
+        SubjectName: "15CS71",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS72",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS73",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS74",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS75",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS76",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS73L",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS74L",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+    ]
+  },
+  {
+    Branch: "COMPUTER SCIENCE",
+    Semester: 7,
+    Usn: "1AT15CS020",
+    Name: "Deepak V",
+    PhoneNo: 8147900416,
+    ParentNo: 9448683659,
+    Attendence:
+    [
+      {
+        SubjectName: "15CS71",
+        Percentage: 70,
+      },
+      {
+        SubjectName: "15CS72",
+        Percentage: 72,
+      },
+      {
+        SubjectName: "15CS73",
+        Percentage: 80,
+      },
+      {
+        SubjectName: "15CS74",
+        Percentage: 85,
+      },
+      {
+        SubjectName: "15CS75",
+        Percentage: 90,
+      },
+      {
+        SubjectName: "15CS76",
+        Percentage: 92,
+      },
+      {
+        SubjectName: "15CS73L",
+        Percentage: 60,
+      },
+      {
+        SubjectName: "15CS74L",
+        Percentage: 70,
+      }
+    ],
+    Internals:
+    [
+      {
+        SubjectName: "15CS71",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS72",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS73",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS74",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS75",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS76",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS73L",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS74L",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+    ]
+  },
+  {
+    Branch: "COMPUTER SCIENCE",
+    Semester: 7,
+    Usn: "1AT15CS020",
+    Name: "Deepak V",
+    PhoneNo: 8147900416,
+    ParentNo: 9448683659,
+    Attendence:
+    [
+      {
+        SubjectName: "15CS71",
+        Percentage: 70,
+      },
+      {
+        SubjectName: "15CS72",
+        Percentage: 72,
+      },
+      {
+        SubjectName: "15CS73",
+        Percentage: 80,
+      },
+      {
+        SubjectName: "15CS74",
+        Percentage: 85,
+      },
+      {
+        SubjectName: "15CS75",
+        Percentage: 90,
+      },
+      {
+        SubjectName: "15CS76",
+        Percentage: 92,
+      },
+      {
+        SubjectName: "15CS73L",
+        Percentage: 60,
+      },
+      {
+        SubjectName: "15CS74L",
+        Percentage: 70,
+      }
+    ],
+    Internals:
+    [
+      {
+        SubjectName: "15CS71",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS72",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS73",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS74",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS75",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS76",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS73L",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS74L",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+    ]
+  },
+  {
+    Branch: "COMPUTER SCIENCE",
+    Semester: 7,
+    Usn: "1AT15CS020",
+    Name: "Deepak V",
+    PhoneNo: 8147900416,
+    ParentNo: 9448683659,
+    Attendence:
+    [
+      {
+        SubjectName: "15CS71",
+        Percentage: 70,
+      },
+      {
+        SubjectName: "15CS72",
+        Percentage: 72,
+      },
+      {
+        SubjectName: "15CS73",
+        Percentage: 80,
+      },
+      {
+        SubjectName: "15CS74",
+        Percentage: 85,
+      },
+      {
+        SubjectName: "15CS75",
+        Percentage: 90,
+      },
+      {
+        SubjectName: "15CS76",
+        Percentage: 92,
+      },
+      {
+        SubjectName: "15CS73L",
+        Percentage: 60,
+      },
+      {
+        SubjectName: "15CS74L",
+        Percentage: 70,
+      }
+    ],
+    Internals:
+    [
+      {
+        SubjectName: "15CS71",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS72",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS73",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS74",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS75",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS76",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS73L",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS74L",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+    ]
+  },
+  {
+    Branch: "COMPUTER SCIENCE",
+    Semester: 7,
+    Usn: "1AT15CS020",
+    Name: "Deepak V",
+    PhoneNo: 8147900416,
+    ParentNo: 9448683659,
+    Attendence:
+    [
+      {
+        SubjectName: "15CS71",
+        Percentage: 70,
+      },
+      {
+        SubjectName: "15CS72",
+        Percentage: 72,
+      },
+      {
+        SubjectName: "15CS73",
+        Percentage: 80,
+      },
+      {
+        SubjectName: "15CS74",
+        Percentage: 85,
+      },
+      {
+        SubjectName: "15CS75",
+        Percentage: 90,
+      },
+      {
+        SubjectName: "15CS76",
+        Percentage: 92,
+      },
+      {
+        SubjectName: "15CS73L",
+        Percentage: 60,
+      },
+      {
+        SubjectName: "15CS74L",
+        Percentage: 70,
+      }
+    ],
+    Internals:
+    [
+      {
+        SubjectName: "15CS71",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS72",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS73",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS74",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS75",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS76",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS73L",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS74L",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+    ]
+  },
+  {
+    Branch: "COMPUTER SCIENCE",
+    Semester: 7,
+    Usn: "1AT15CS020",
+    Name: "Deepak V",
+    PhoneNo: 8147900416,
+    ParentNo: 9448683659,
+    Attendence:
+    [
+      {
+        SubjectName: "15CS71",
+        Percentage: 70,
+      },
+      {
+        SubjectName: "15CS72",
+        Percentage: 72,
+      },
+      {
+        SubjectName: "15CS73",
+        Percentage: 80,
+      },
+      {
+        SubjectName: "15CS74",
+        Percentage: 85,
+      },
+      {
+        SubjectName: "15CS75",
+        Percentage: 90,
+      },
+      {
+        SubjectName: "15CS76",
+        Percentage: 92,
+      },
+      {
+        SubjectName: "15CS73L",
+        Percentage: 60,
+      },
+      {
+        SubjectName: "15CS74L",
+        Percentage: 70,
+      }
+    ],
+    Internals:
+    [
+      {
+        SubjectName: "15CS71",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS72",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS73",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS74",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS75",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS76",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS73L",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS74L",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+    ]
+  },
+  {
+    Branch: "COMPUTER SCIENCE",
+    Semester: 7,
+    Usn: "1AT15CS020",
+    Name: "Deepak V",
+    PhoneNo: 8147900416,
+    ParentNo: 9448683659,
+    Attendence:
+    [
+      {
+        SubjectName: "15CS71",
+        Percentage: 70,
+      },
+      {
+        SubjectName: "15CS72",
+        Percentage: 72,
+      },
+      {
+        SubjectName: "15CS73",
+        Percentage: 80,
+      },
+      {
+        SubjectName: "15CS74",
+        Percentage: 85,
+      },
+      {
+        SubjectName: "15CS75",
+        Percentage: 90,
+      },
+      {
+        SubjectName: "15CS76",
+        Percentage: 92,
+      },
+      {
+        SubjectName: "15CS73L",
+        Percentage: 60,
+      },
+      {
+        SubjectName: "15CS74L",
+        Percentage: 70,
+      }
+    ],
+    Internals:
+    [
+      {
+        SubjectName: "15CS71",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS72",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS73",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS74",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS75",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS76",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS73L",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+      {
+        SubjectName: "15CS74L",
+        IA1: 70,
+        IA2: 73,
+        IA3: 80,
+      },
+    ]
+  },
+]

@@ -1,12 +1,7 @@
-const AIProutes = require('express')();
+const DAGroutes = require('express')();
 
-const filesRoutes = require('./files/files.js');
-const rulesRoutes = require('./rules/rules.js');
-const overviewRoutes = require('./overview/overview.js');
+const dashboardRoutes = require('./Home/Home.js');
 
-AIProutes.use('/files', filesRoutes);
-AIProutes.use('/rules', rulesRoutes);
-AIProutes.use('/overview', overviewRoutes);
+DAGroutes.use('/Home', dashboardRoutes);
 
-module.exports = AIProutes;
-
+module.exports = DAGroutes;
