@@ -54,17 +54,11 @@ class DAGStudentHome extends React.Component {
       );
     });
     return this.content;
-  }
+  };
 
   render() {
     return(
-      <Grid container={true}>
-        <Grid item={true} sm={2} md={2} lg={2} xl={2}>
-          <h1>Average Attendence</h1>
-          <h2>{this.handleAttendance}</h2>
-        </Grid>
-        {this.handleInternals}
-      </Grid>
+      <div>Home</div>
   );
   }
 }
