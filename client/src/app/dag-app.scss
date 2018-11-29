@@ -1,5 +1,12 @@
-@import "./header/dag-header";
-@import "./route/dag-route";
+@import "Main/dag-main";
+@import "Upload/dag-upload";
+@import "Dashboard/dag-dashboard";
+@import "Attendence/dag-attendance";
+@import "Internals/dag-internals";
+@import "Login/dag-login";
+@import "About/dag-aboutus";
+@import "Notes/dag-notes";
+@import "CalenderEvents/dag-calenderEvents";
 
 body {
   margin: 0;
@@ -7,6 +14,11 @@ body {
   width: 100%;
   height: 100%;
   background-color: rgba(216,219,239,.3);
+}
+
+.dag-container {
+  height: 100%;
+  width: 100%;
 }
 
 @font-face{font-family: Osr;

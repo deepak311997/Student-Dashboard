@@ -1,1036 +1,2993 @@
 [
   {
-    Branch: "COMPUTER SCIENCE",
-    Semester: 7,
-    Usn: "1AT15CS020",
-    Name: "Deepak V",
-    PhoneNo: 8147900416,
-    ParentNo: 9448683659,
-    Attendence:
-    [
-      {
-        SubjectName: "15CS71",
-        Percentage: 70,
-      },
-      {
-        SubjectName: "15CS72",
-        Percentage: 72,
-      },
-      {
-        SubjectName: "15CS73",
-        Percentage: 80,
-      },
-      {
-        SubjectName: "15CS74",
-        Percentage: 85,
-      },
-      {
-        SubjectName: "15CS75",
-        Percentage: 90,
-      },
-      {
-        SubjectName: "15CS76",
-        Percentage: 92,
-      },
-      {
-        SubjectName: "15CS73L",
-        Percentage: 60,
-      },
-      {
-        SubjectName: "15CS74L",
-        Percentage: 70,
-      }
-    ],
-    Internals:
-    [
-      {
-        SubjectName: "15CS71",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS72",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS73",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS74",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS75",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS76",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS73L",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS74L",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-    ]
+    "Branch": "COMPUTER SCIENCE",
+    "Semester": 7,
+    "Usn": "1AT15CS023",
+    "Name": "Gautham N",
+    "PhoneNo": 9738179462,
+    "ParentNo": 9738587828,
+    "Attendance": {
+      "theory": [
+        {
+          "subjectName": "15CS71",
+          "fullSubjectName": "Web Technology",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 74,
+              "weekly": [80,74,72,70]
+            },
+            {
+              "month": "September",
+              "percentage": 70.5,
+              "weekly": [70,74,68,70]
+            },
+            {
+              "month": "October",
+              "percentage": 82,
+              "weekly": [90,71,75,78]
+            },
+            {
+              "month": "November",
+              "percentage": 76.5,
+              "weekly": [82,90,85,83]
+            },
+            {
+              "month": "December",
+              "percentage": 84.5,
+              "weekly": [80,74,85,79]
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS72",
+          "fullSubjectName": "Advanced Computer Architecture",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 71.25,
+              "weekly": [60,75,80,70]
+            },
+            {
+              "month": "September",
+              "percentage": 76.75,
+              "weekly": [73,79,85,70]
+
+            },
+            {
+              "month": "October",
+              "percentage": 76.75,
+              "weekly": [70,85,75,77]
+
+            },
+            {
+              "month": "November",
+              "percentage": 75.5,
+              "weekly": [67,83,72,80]
+
+            },
+            {
+              "month": "December",
+              "percentage": 78.5,
+              "weekly": [80,74,71,89]
+
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS73",
+          "fullSubjectName": "Machine Learning",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 64,
+              "weekly": [55,62,67,72]
+
+            },
+            {
+              "month": "September",
+              "percentage": 78.5,
+              "weekly": [84,70,71,89]
+
+            },
+            {
+              "month": "October",
+              "percentage": 73.25,
+              "weekly": [80,79,65,69]
+
+            },
+            {
+              "month": "November",
+              "percentage": 72.75,
+              "weekly": [69,73,77,72]
+
+            },
+            {
+              "month": "December",
+              "percentage": 78.5,
+              "weekly": [80,74,71,89]
+
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS74",
+          "fullSubjectName": "Natural Language Processing",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 82,
+              "weekly": [90,74,85,79]
+            },
+            {
+              "month": "September",
+              "percentage": 73.25,
+              "weekly": [80,79,65,69]
+            },
+            {
+              "month": "October",
+              "percentage": 78.5,
+              "weekly": [84,70,71,89]
+            },
+            {
+              "month": "November",
+              "percentage": 84,
+              "weekly": [91,84,76,85]
+            },
+            {
+              "month": "December",
+              "percentage": 64,
+              "weekly": [55,62,67,72]
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS75",
+          "fullSubjectName": "Digital Image Processing",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 71.25,
+              "weekly": [60,75,80,70]
+            },
+            {
+              "month": "September",
+              "percentage": 75.25,
+              "weekly": [61,89,71,80]
+            },
+            {
+              "month": "October",
+              "percentage": 82,
+              "weekly": [90,74,85,79]
+            },
+            {
+              "month": "November",
+              "percentage": 78.5,
+              "weekly": [84,70,71,89]
+            },
+            {
+              "month": "December",
+              "percentage": 73.25,
+              "weekly": [80,79,65,69]
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS76",
+          "fullSubjectName": "Project Phase 1",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 78.5,
+              "weekly": [84,70,71,89]
+            },
+            {
+              "month": "September",
+              "percentage": 71.25,
+              "weekly": [73,67,65,80]
+            },
+            {
+              "month": "October",
+              "percentage": 82,
+              "weekly": [90,74,85,79]
+            },
+            {
+              "month": "November",
+              "percentage": 71.25,
+              "weekly": [60,75,80,70]
+            },
+            {
+              "month": "December",
+              "percentage": 73,
+              "weekly": [63,73,75,81]
+            }
+          ]
+        }
+      ],
+      "lab": [
+        {
+          "subjectName": "15CS73L",
+          "fullSubjectName": "Web Technology Lab",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 73,
+              "weekly": [63,73,75,81]
+            },
+            {
+              "month": "September",
+              "percentage": 72,
+              "weekly": [60,71,80,77]
+            },
+            {
+              "month": "October",
+              "percentage": 71.25,
+              "weekly": [60,75,80,70]
+            },
+            {
+              "month": "November",
+              "percentage": 74,
+              "weekly": [65,75,83,73]
+            },
+            {
+              "month": "December",
+              "percentage": 72,
+              "weekly": [81,63,75,69]
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS74L",
+          "fullSubjectName": "Machine Learning Lab",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 77,
+              "weekly": [81,83,71,73]
+            },
+            {
+              "month": "September",
+              "percentage": 69.5,
+              "weekly": [74,68,71,65]
+            },
+            {
+              "month": "October",
+              "percentage": 76,
+              "weekly": [87,71,69,77]
+            },
+            {
+              "month": "November",
+              "percentage": 73,
+              "weekly": [63,73,75,81]
+            },
+            {
+              "month": "December",
+              "percentage": 71.25,
+              "weekly": [60,75,80,70]
+            }
+          ]
+        }
+      ]
+    },
+    "Internals": {
+      "theory": [
+        {
+          "subjectName": "15CS71",
+          "fullSubjectName": "Web Technology",
+          "IA1": 17,
+          "IA2": 14,
+          "IA3": 18
+        },
+        {
+          "subjectName": "15CS72",
+          "fullSubjectName": "Advanced Computer Architecture",
+          "IA1": 11,
+          "IA2": 12,
+          "IA3": 17
+        },
+        {
+          "subjectName": "15CS73",
+          "fullSubjectName": "Machine Learning",
+          "IA1": 19,
+          "IA2": 14,
+          "IA3": 17
+        },
+        {
+          "subjectName": "15CS74",
+          "fullSubjectName": "Natural Language Processing",
+          "IA1": 18,
+          "IA2": 18,
+          "IA3": 20
+        },
+        {
+          "subjectName": "15CS75",
+          "fullSubjectName": "Digital Image Processing",
+          "IA1": 12,
+          "IA2": 14,
+          "IA3": 18
+        },
+        {
+          "subjectName": "15CS76",
+          "fullSubjectName": "Project Phase 1",
+          "IA1": 14,
+          "IA2": 12,
+          "IA3": 16
+        }
+      ],
+      "lab": [
+        {
+          "subjectName": "15CS73L",
+          "fullSubjectName": "Web Technology Lab",
+          "IA1": 14,
+          "IA2": 16,
+          "IA3": 18
+        },
+        {
+          "subjectName": "15CS74L",
+          "fullSubjectName": "Machine Learning Lab",
+          "IA1": 20,
+          "IA2": 17,
+          "IA3": 20
+        }
+      ]
+    }
   },
   {
-    Branch: "COMPUTER SCIENCE",
-    Semester: 7,
-    Usn: "1AT15CS020",
-    Name: "Deepak V",
-    PhoneNo: 8147900416,
-    ParentNo: 9448683659,
-    Attendence:
-    [
-      {
-        SubjectName: "15CS71",
-        Percentage: 70,
-      },
-      {
-        SubjectName: "15CS72",
-        Percentage: 72,
-      },
-      {
-        SubjectName: "15CS73",
-        Percentage: 80,
-      },
-      {
-        SubjectName: "15CS74",
-        Percentage: 85,
-      },
-      {
-        SubjectName: "15CS75",
-        Percentage: 90,
-      },
-      {
-        SubjectName: "15CS76",
-        Percentage: 92,
-      },
-      {
-        SubjectName: "15CS73L",
-        Percentage: 60,
-      },
-      {
-        SubjectName: "15CS74L",
-        Percentage: 70,
-      }
-    ],
-    Internals:
-    [
-      {
-        SubjectName: "15CS71",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS72",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS73",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS74",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS75",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS76",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS73L",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS74L",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-    ]
+    "Branch": "COMPUTER SCIENCE",
+    "Semester": 7,
+    "Usn": "1AT15CS015",
+    "Name": "Ayesha Misbah",
+    "PhoneNo": 9886065863,
+    "ParentNo": 9738581245,
+    "Attendance": {
+      "theory": [
+        {
+          "subjectName": "15CS71",
+          "fullSubjectName": "Web Technology",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 74,
+              "weekly": [80,74,72,70]
+            },
+            {
+              "month": "September",
+              "percentage": 70.5,
+              "weekly": [70,74,68,70]
+            },
+            {
+              "month": "October",
+              "percentage": 82,
+              "weekly": [90,71,75,78]
+            },
+            {
+              "month": "November",
+              "percentage": 76.5,
+              "weekly": [82,90,85,83]
+            },
+            {
+              "month": "December",
+              "percentage": 84.5,
+              "weekly": [80,74,85,79]
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS72",
+          "fullSubjectName": "Advanced Computer Architecture",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 71.25,
+              "weekly": [60,75,80,70]
+            },
+            {
+              "month": "September",
+              "percentage": 76.75,
+              "weekly": [73,79,85,70]
+
+            },
+            {
+              "month": "October",
+              "percentage": 76.75,
+              "weekly": [70,85,75,77]
+            },
+            {
+              "month": "November",
+              "percentage": 75.5,
+              "weekly": [67,83,72,80]
+            },
+            {
+              "month": "December",
+              "percentage": 78.5,
+              "weekly": [80,74,71,89]
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS73",
+          "fullSubjectName": "Machine Learning",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 64,
+              "weekly": [55,62,67,72]
+
+            },
+            {
+              "month": "September",
+              "percentage": 78.5,
+              "weekly": [84,70,71,89]
+            },
+            {
+              "month": "October",
+              "percentage": 73.25,
+              "weekly": [80,79,65,69]
+            },
+            {
+              "month": "November",
+              "percentage": 72.75,
+              "weekly": [69,73,77,72]
+
+            },
+            {
+              "month": "December",
+              "percentage": 78.5,
+              "weekly": [80,74,71,89]
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS74",
+          "fullSubjectName": "Natural Language Processing",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 82,
+              "weekly": [90,74,85,79]
+            },
+            {
+              "month": "September",
+              "percentage": 73.25,
+              "weekly": [80,79,65,69]
+            },
+            {
+              "month": "October",
+              "percentage": 78.5,
+              "weekly": [84,70,71,89]
+            },
+            {
+              "month": "November",
+              "percentage": 84,
+              "weekly": [91,84,76,85]
+            },
+            {
+              "month": "December",
+              "percentage": 64,
+              "weekly": [55,62,67,72]
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS75",
+          "fullSubjectName": "Digital Image Processing",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 71.25,
+              "weekly": [60,75,80,70]
+            },
+            {
+              "month": "September",
+              "percentage": 75.25,
+              "weekly": [61,89,71,80]
+            },
+            {
+              "month": "October",
+              "percentage": 82,
+              "weekly": [90,74,85,79]
+            },
+            {
+              "month": "November",
+              "percentage": 78.5,
+              "weekly": [84,70,71,89]
+            },
+            {
+              "month": "December",
+              "percentage": 73.25,
+              "weekly": [80,79,65,69]
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS76",
+          "fullSubjectName": "Project Phase 1",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 78.5,
+              "weekly": [84,70,71,89]
+            },
+            {
+              "month": "September",
+              "percentage": 71.25,
+              "weekly": [73,67,65,80]
+            },
+            {
+              "month": "October",
+              "percentage": 82,
+              "weekly": [90,74,85,79]
+            },
+            {
+              "month": "November",
+              "percentage": 71.25,
+              "weekly": [60,75,80,70]
+            },
+            {
+              "month": "December",
+              "percentage": 73,
+              "weekly": [63,73,75,81]
+            }
+          ]
+        }
+      ],
+      "lab": [
+        {
+          "subjectName": "15CS73L",
+          "fullSubjectName": "Web Technology Lab",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 73,
+              "weekly": [63,73,75,81]
+            },
+            {
+              "month": "September",
+              "percentage": 72,
+              "weekly": [60,71,80,77]
+            },
+            {
+              "month": "October",
+              "percentage": 71.25,
+              "weekly": [60,75,80,70]
+            },
+            {
+              "month": "November",
+              "percentage": 74,
+              "weekly": [65,75,83,73]
+            },
+            {
+              "month": "December",
+              "percentage": 72,
+              "weekly": [81,63,75,69]
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS74L",
+          "fullSubjectName": "Machine Learning Lab",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 77,
+              "weekly": [81,83,71,73]
+            },
+            {
+              "month": "September",
+              "percentage": 69.5,
+              "weekly": [74,68,71,65]
+            },
+            {
+              "month": "October",
+              "percentage": 76,
+              "weekly": [87,71,69,77]
+            },
+            {
+              "month": "November",
+              "percentage": 73,
+              "weekly": [63,73,75,81]
+            },
+            {
+              "month": "December",
+              "percentage": 71.25,
+              "weekly": [60,75,80,70]
+            }
+          ]
+        }
+      ]
+    },
+    "Internals": {
+      "theory": [
+        {
+          "subjectName": "15CS71",
+          "fullSubjectName": "Web Technology",
+          "IA1": 17,
+          "IA2": 14,
+          "IA3": 18
+        },
+        {
+          "subjectName": "15CS72",
+          "fullSubjectName": "Advanced Computer Architecture",
+          "IA1": 11,
+          "IA2": 12,
+          "IA3": 17
+        },
+        {
+          "subjectName": "15CS73",
+          "fullSubjectName": "Machine Learning",
+          "IA1": 19,
+          "IA2": 14,
+          "IA3": 17
+        },
+        {
+          "subjectName": "15CS74",
+          "fullSubjectName": "Natural Language Processing",
+          "IA1": 18,
+          "IA2": 18,
+          "IA3": 20
+        },
+        {
+          "subjectName": "15CS75",
+          "fullSubjectName": "Digital Image Processing",
+          "IA1": 12,
+          "IA2": 14,
+          "IA3": 18
+        },
+        {
+          "subjectName": "15CS76",
+          "fullSubjectName": "Project Phase 1",
+          "IA1": 14,
+          "IA2": 12,
+          "IA3": 16
+        }
+      ],
+      "lab": [
+        {
+          "subjectName": "15CS73L",
+          "fullSubjectName": "Web Technology Lab",
+          "IA1": 14,
+          "IA2": 16,
+          "IA3": 18
+        },
+        {
+          "subjectName": "15CS74L",
+          "fullSubjectName": "Machine Learning Lab",
+          "IA1": 20,
+          "IA2": 17,
+          "IA3": 20
+        }
+      ]
+    }
   },
   {
-    Branch: "COMPUTER SCIENCE",
-    Semester: 7,
-    Usn: "1AT15CS020",
-    Name: "Deepak V",
-    PhoneNo: 8147900416,
-    ParentNo: 9448683659,
-    Attendence:
-    [
-      {
-        SubjectName: "15CS71",
-        Percentage: 70,
-      },
-      {
-        SubjectName: "15CS72",
-        Percentage: 72,
-      },
-      {
-        SubjectName: "15CS73",
-        Percentage: 80,
-      },
-      {
-        SubjectName: "15CS74",
-        Percentage: 85,
-      },
-      {
-        SubjectName: "15CS75",
-        Percentage: 90,
-      },
-      {
-        SubjectName: "15CS76",
-        Percentage: 92,
-      },
-      {
-        SubjectName: "15CS73L",
-        Percentage: 60,
-      },
-      {
-        SubjectName: "15CS74L",
-        Percentage: 70,
-      }
-    ],
-    Internals:
-    [
-      {
-        SubjectName: "15CS71",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS72",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS73",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS74",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS75",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS76",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS73L",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS74L",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-    ]
+    "Branch": "COMPUTER SCIENCE",
+    "Semester": 7,
+    "Usn": "1AT15CS028",
+    "Name": "Hemanth Kumar K",
+    "PhoneNo": 9738746589,
+    "ParentNo": 8050426598,
+    "Attendance": {
+      "theory": [
+        {
+          "subjectName": "15CS71",
+          "fullSubjectName": "Web Technology",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 74,
+              "weekly": [80,74,72,70]
+            },
+            {
+              "month": "September",
+              "percentage": 70.5,
+              "weekly": [70,74,68,70]
+            },
+            {
+              "month": "October",
+              "percentage": 82,
+              "weekly": [90,71,75,78]
+            },
+            {
+              "month": "November",
+              "percentage": 76.5,
+              "weekly": [82,90,85,83]
+            },
+            {
+              "month": "December",
+              "percentage": 84.5,
+              "weekly": [80,74,85,79]
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS72",
+          "fullSubjectName": "Advanced Computer Architecture",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 71.25,
+              "weekly": [60,75,80,70]
+            },
+            {
+              "month": "September",
+              "percentage": 76.75,
+              "weekly": [73,79,85,70]
+
+            },
+            {
+              "month": "October",
+              "percentage": 76.75,
+              "weekly": [70,85,75,77]
+
+            },
+            {
+              "month": "November",
+              "percentage": 75.5,
+              "weekly": [67,83,72,80]
+
+            },
+            {
+              "month": "December",
+              "percentage": 78.5,
+              "weekly": [80,74,71,89]
+
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS73",
+          "fullSubjectName": "Machine Learning",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 64,
+              "weekly": [55,62,67,72]
+
+            },
+            {
+              "month": "September",
+              "percentage": 78.5,
+              "weekly": [84,70,71,89]
+
+            },
+            {
+              "month": "October",
+              "percentage": 73.25,
+              "weekly": [80,79,65,69]
+
+            },
+            {
+              "month": "November",
+              "percentage": 72.75,
+              "weekly": [69,73,77,72]
+
+            },
+            {
+              "month": "December",
+              "percentage": 78.5,
+              "weekly": [80,74,71,89]
+
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS74",
+          "fullSubjectName": "Natural Language Processing",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 82,
+              "weekly": [90,74,85,79]
+            },
+            {
+              "month": "September",
+              "percentage": 73.25,
+              "weekly": [80,79,65,69]
+            },
+            {
+              "month": "October",
+              "percentage": 78.5,
+              "weekly": [84,70,71,89]
+            },
+            {
+              "month": "November",
+              "percentage": 84,
+              "weekly": [91,84,76,85]
+            },
+            {
+              "month": "December",
+              "percentage": 64,
+              "weekly": [55,62,67,72]
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS75",
+          "fullSubjectName": "Digital Image Processing",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 71.25,
+              "weekly": [60,75,80,70]
+            },
+            {
+              "month": "September",
+              "percentage": 75.25,
+              "weekly": [61,89,71,80]
+            },
+            {
+              "month": "October",
+              "percentage": 82,
+              "weekly": [90,74,85,79]
+            },
+            {
+              "month": "November",
+              "percentage": 78.5,
+              "weekly": [84,70,71,89]
+            },
+            {
+              "month": "December",
+              "percentage": 73.25,
+              "weekly": [80,79,65,69]
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS76",
+          "fullSubjectName": "Project Phase 1",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 78.5,
+              "weekly": [84,70,71,89]
+            },
+            {
+              "month": "September",
+              "percentage": 71.25,
+              "weekly": [73,67,65,80]
+            },
+            {
+              "month": "October",
+              "percentage": 82,
+              "weekly": [90,74,85,79]
+            },
+            {
+              "month": "November",
+              "percentage": 71.25,
+              "weekly": [60,75,80,70]
+            },
+            {
+              "month": "December",
+              "percentage": 73,
+              "weekly": [63,73,75,81]
+            }
+          ]
+        }
+      ],
+      "lab": [
+        {
+          "subjectName": "15CS73L",
+          "fullSubjectName": "Web Technology Lab",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 73,
+              "weekly": [63,73,75,81]
+            },
+            {
+              "month": "September",
+              "percentage": 72,
+              "weekly": [60,71,80,77]
+            },
+            {
+              "month": "October",
+              "percentage": 71.25,
+              "weekly": [60,75,80,70]
+            },
+            {
+              "month": "November",
+              "percentage": 74,
+              "weekly": [65,75,83,73]
+            },
+            {
+              "month": "December",
+              "percentage": 72,
+              "weekly": [81,63,75,69]
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS74L",
+          "fullSubjectName": "Machine Learning Lab",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 77,
+              "weekly": [81,83,71,73]
+            },
+            {
+              "month": "September",
+              "percentage": 69.5,
+              "weekly": [74,68,71,65]
+            },
+            {
+              "month": "October",
+              "percentage": 76,
+              "weekly": [87,71,69,77]
+            },
+            {
+              "month": "November",
+              "percentage": 73,
+              "weekly": [63,73,75,81]
+            },
+            {
+              "month": "December",
+              "percentage": 71.25,
+              "weekly": [60,75,80,70]
+            }
+          ]
+        }
+      ]
+    },
+    "Internals": {
+      "theory": [
+        {
+          "subjectName": "15CS71",
+          "fullSubjectName": "Web Technology",
+          "IA1": 17,
+          "IA2": 14,
+          "IA3": 18
+        },
+        {
+          "subjectName": "15CS72",
+          "fullSubjectName": "Advanced Computer Architecture",
+          "IA1": 11,
+          "IA2": 12,
+          "IA3": 17
+        },
+        {
+          "subjectName": "15CS73",
+          "fullSubjectName": "Machine Learning",
+          "IA1": 19,
+          "IA2": 14,
+          "IA3": 17
+        },
+        {
+          "subjectName": "15CS74",
+          "fullSubjectName": "Natural Language Processing",
+          "IA1": 18,
+          "IA2": 18,
+          "IA3": 20
+        },
+        {
+          "subjectName": "15CS75",
+          "fullSubjectName": "Digital Image Processing",
+          "IA1": 12,
+          "IA2": 14,
+          "IA3": 18
+        },
+        {
+          "subjectName": "15CS76",
+          "fullSubjectName": "Project Phase 1",
+          "IA1": 14,
+          "IA2": 12,
+          "IA3": 16
+        }
+      ],
+      "lab": [
+        {
+          "subjectName": "15CS73L",
+          "fullSubjectName": "Web Technology Lab",
+          "IA1": 14,
+          "IA2": 16,
+          "IA3": 18
+        },
+        {
+          "subjectName": "15CS74L",
+          "fullSubjectName": "Machine Learning Lab",
+          "IA1": 20,
+          "IA2": 17,
+          "IA3": 20
+        }
+      ]
+    }
   },
   {
-    Branch: "COMPUTER SCIENCE",
-    Semester: 7,
-    Usn: "1AT15CS020",
-    Name: "Deepak V",
-    PhoneNo: 8147900416,
-    ParentNo: 9448683659,
-    Attendence:
-    [
-      {
-        SubjectName: "15CS71",
-        Percentage: 70,
-      },
-      {
-        SubjectName: "15CS72",
-        Percentage: 72,
-      },
-      {
-        SubjectName: "15CS73",
-        Percentage: 80,
-      },
-      {
-        SubjectName: "15CS74",
-        Percentage: 85,
-      },
-      {
-        SubjectName: "15CS75",
-        Percentage: 90,
-      },
-      {
-        SubjectName: "15CS76",
-        Percentage: 92,
-      },
-      {
-        SubjectName: "15CS73L",
-        Percentage: 60,
-      },
-      {
-        SubjectName: "15CS74L",
-        Percentage: 70,
-      }
-    ],
-    Internals:
-    [
-      {
-        SubjectName: "15CS71",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS72",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS73",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS74",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS75",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS76",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS73L",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS74L",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-    ]
+    "Branch": "COMPUTER SCIENCE",
+    "Semester": 7,
+    "Usn": "1AT15CS043",
+    "Name": "Likith S",
+    "PhoneNo": 9512565781,
+    "ParentNo": 9448562321,
+    "Attendance": {
+      "theory": [
+        {
+          "subjectName": "15CS71",
+          "fullSubjectName": "Web Technology",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 74,
+              "weekly": [80,74,72,70]
+            },
+            {
+              "month": "September",
+              "percentage": 70.5,
+              "weekly": [70,74,68,70]
+            },
+            {
+              "month": "October",
+              "percentage": 82,
+              "weekly": [90,71,75,78]
+            },
+            {
+              "month": "November",
+              "percentage": 76.5,
+              "weekly": [82,90,85,83]
+            },
+            {
+              "month": "December",
+              "percentage": 84.5,
+              "weekly": [80,74,85,79]
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS72",
+          "fullSubjectName": "Advanced Computer Architecture",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 71.25,
+              "weekly": [60,75,80,70]
+            },
+            {
+              "month": "September",
+              "percentage": 76.75,
+              "weekly": [73,79,85,70]
+
+            },
+            {
+              "month": "October",
+              "percentage": 76.75,
+              "weekly": [70,85,75,77]
+
+            },
+            {
+              "month": "November",
+              "percentage": 75.5,
+              "weekly": [67,83,72,80]
+
+            },
+            {
+              "month": "December",
+              "percentage": 78.5,
+              "weekly": [80,74,71,89]
+
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS73",
+          "fullSubjectName": "Machine Learning",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 64,
+              "weekly": [55,62,67,72]
+
+            },
+            {
+              "month": "September",
+              "percentage": 78.5,
+              "weekly": [84,70,71,89]
+
+            },
+            {
+              "month": "October",
+              "percentage": 73.25,
+              "weekly": [80,79,65,69]
+
+            },
+            {
+              "month": "November",
+              "percentage": 72.75,
+              "weekly": [69,73,77,72]
+
+            },
+            {
+              "month": "December",
+              "percentage": 78.5,
+              "weekly": [80,74,71,89]
+
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS74",
+          "fullSubjectName": "Natural Language Processing",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 82,
+              "weekly": [90,74,85,79]
+            },
+            {
+              "month": "September",
+              "percentage": 73.25,
+              "weekly": [80,79,65,69]
+            },
+            {
+              "month": "October",
+              "percentage": 78.5,
+              "weekly": [84,70,71,89]
+            },
+            {
+              "month": "November",
+              "percentage": 84,
+              "weekly": [91,84,76,85]
+            },
+            {
+              "month": "December",
+              "percentage": 64,
+              "weekly": [55,62,67,72]
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS75",
+          "fullSubjectName": "Digital Image Processing",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 71.25,
+              "weekly": [60,75,80,70]
+            },
+            {
+              "month": "September",
+              "percentage": 75.25,
+              "weekly": [61,89,71,80]
+            },
+            {
+              "month": "October",
+              "percentage": 82,
+              "weekly": [90,74,85,79]
+            },
+            {
+              "month": "November",
+              "percentage": 78.5,
+              "weekly": [84,70,71,89]
+            },
+            {
+              "month": "December",
+              "percentage": 73.25,
+              "weekly": [80,79,65,69]
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS76",
+          "fullSubjectName": "Project Phase 1",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 78.5,
+              "weekly": [84,70,71,89]
+            },
+            {
+              "month": "September",
+              "percentage": 71.25,
+              "weekly": [73,67,65,80]
+            },
+            {
+              "month": "October",
+              "percentage": 82,
+              "weekly": [90,74,85,79]
+            },
+            {
+              "month": "November",
+              "percentage": 71.25,
+              "weekly": [60,75,80,70]
+            },
+            {
+              "month": "December",
+              "percentage": 73,
+              "weekly": [63,73,75,81]
+            }
+          ]
+        }
+      ],
+      "lab": [
+        {
+          "subjectName": "15CS73L",
+          "fullSubjectName": "Web Technology Lab",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 73,
+              "weekly": [63,73,75,81]
+            },
+            {
+              "month": "September",
+              "percentage": 72,
+              "weekly": [60,71,80,77]
+            },
+            {
+              "month": "October",
+              "percentage": 71.25,
+              "weekly": [60,75,80,70]
+            },
+            {
+              "month": "November",
+              "percentage": 74,
+              "weekly": [65,75,83,73]
+            },
+            {
+              "month": "December",
+              "percentage": 72,
+              "weekly": [81,63,75,69]
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS74L",
+          "fullSubjectName": "Machine Learning Lab",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 77,
+              "weekly": [81,83,71,73]
+            },
+            {
+              "month": "September",
+              "percentage": 69.5,
+              "weekly": [74,68,71,65]
+            },
+            {
+              "month": "October",
+              "percentage": 76,
+              "weekly": [87,71,69,77]
+            },
+            {
+              "month": "November",
+              "percentage": 73,
+              "weekly": [63,73,75,81]
+            },
+            {
+              "month": "December",
+              "percentage": 71.25,
+              "weekly": [60,75,80,70]
+            }
+          ]
+        }
+      ]
+    },
+    "Internals": {
+      "theory": [
+        {
+          "subjectName": "15CS71",
+          "fullSubjectName": "Web Technology",
+          "IA1": 17,
+          "IA2": 14,
+          "IA3": 18
+        },
+        {
+          "subjectName": "15CS72",
+          "fullSubjectName": "Advanced Computer Architecture",
+          "IA1": 11,
+          "IA2": 12,
+          "IA3": 17
+        },
+        {
+          "subjectName": "15CS73",
+          "fullSubjectName": "Machine Learning",
+          "IA1": 19,
+          "IA2": 14,
+          "IA3": 17
+        },
+        {
+          "subjectName": "15CS74",
+          "fullSubjectName": "Natural Language Processing",
+          "IA1": 18,
+          "IA2": 18,
+          "IA3": 20
+        },
+        {
+          "subjectName": "15CS75",
+          "fullSubjectName": "Digital Image Processing",
+          "IA1": 12,
+          "IA2": 14,
+          "IA3": 18
+        },
+        {
+          "subjectName": "15CS76",
+          "fullSubjectName": "Project Phase 1",
+          "IA1": 14,
+          "IA2": 12,
+          "IA3": 16
+        }
+      ],
+      "lab": [
+        {
+          "subjectName": "15CS73L",
+          "fullSubjectName": "Web Technology Lab",
+          "IA1": 14,
+          "IA2": 16,
+          "IA3": 18
+        },
+        {
+          "subjectName": "15CS74L",
+          "fullSubjectName": "Machine Learning Lab",
+          "IA1": 20,
+          "IA2": 17,
+          "IA3": 20
+        }
+      ]
+    }
   },
   {
-    Branch: "COMPUTER SCIENCE",
-    Semester: 7,
-    Usn: "1AT15CS020",
-    Name: "Deepak V",
-    PhoneNo: 8147900416,
-    ParentNo: 9448683659,
-    Attendence:
-    [
-      {
-        SubjectName: "15CS71",
-        Percentage: 70,
-      },
-      {
-        SubjectName: "15CS72",
-        Percentage: 72,
-      },
-      {
-        SubjectName: "15CS73",
-        Percentage: 80,
-      },
-      {
-        SubjectName: "15CS74",
-        Percentage: 85,
-      },
-      {
-        SubjectName: "15CS75",
-        Percentage: 90,
-      },
-      {
-        SubjectName: "15CS76",
-        Percentage: 92,
-      },
-      {
-        SubjectName: "15CS73L",
-        Percentage: 60,
-      },
-      {
-        SubjectName: "15CS74L",
-        Percentage: 70,
-      }
-    ],
-    Internals:
-    [
-      {
-        SubjectName: "15CS71",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS72",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS73",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS74",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS75",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS76",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS73L",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS74L",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-    ]
+    "Branch": "COMPUTER SCIENCE",
+    "Semester": 7,
+    "Usn": "1AT15CS011",
+    "Name": "Anushya B",
+    "PhoneNo": 7099824217,
+    "ParentNo": 9483257015,
+    "Attendance": {
+      "theory": [
+        {
+          "subjectName": "15CS71",
+          "fullSubjectName": "Web Technology",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 74,
+              "weekly": [80,74,72,70]
+            },
+            {
+              "month": "September",
+              "percentage": 70.5,
+              "weekly": [70,74,68,70]
+            },
+            {
+              "month": "October",
+              "percentage": 82,
+              "weekly": [90,71,75,78]
+            },
+            {
+              "month": "November",
+              "percentage": 76.5,
+              "weekly": [82,90,85,83]
+            },
+            {
+              "month": "December",
+              "percentage": 84.5,
+              "weekly": [80,74,85,79]
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS72",
+          "fullSubjectName": "Advanced Computer Architecture",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 71.25,
+              "weekly": [60,75,80,70]
+            },
+            {
+              "month": "September",
+              "percentage": 76.75,
+              "weekly": [73,79,85,70]
+
+            },
+            {
+              "month": "October",
+              "percentage": 76.75,
+              "weekly": [70,85,75,77]
+
+            },
+            {
+              "month": "November",
+              "percentage": 75.5,
+              "weekly": [67,83,72,80]
+
+            },
+            {
+              "month": "December",
+              "percentage": 78.5,
+              "weekly": [80,74,71,89]
+
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS73",
+          "fullSubjectName": "Machine Learning",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 64,
+              "weekly": [55,62,67,72]
+
+            },
+            {
+              "month": "September",
+              "percentage": 78.5,
+              "weekly": [84,70,71,89]
+
+            },
+            {
+              "month": "October",
+              "percentage": 73.25,
+              "weekly": [80,79,65,69]
+
+            },
+            {
+              "month": "November",
+              "percentage": 72.75,
+              "weekly": [69,73,77,72]
+
+            },
+            {
+              "month": "December",
+              "percentage": 78.5,
+              "weekly": [80,74,71,89]
+
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS74",
+          "fullSubjectName": "Natural Language Processing",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 82,
+              "weekly": [90,74,85,79]
+            },
+            {
+              "month": "September",
+              "percentage": 73.25,
+              "weekly": [80,79,65,69]
+            },
+            {
+              "month": "October",
+              "percentage": 78.5,
+              "weekly": [84,70,71,89]
+            },
+            {
+              "month": "November",
+              "percentage": 84,
+              "weekly": [91,84,76,85]
+            },
+            {
+              "month": "December",
+              "percentage": 64,
+              "weekly": [55,62,67,72]
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS75",
+          "fullSubjectName": "Digital Image Processing",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 71.25,
+              "weekly": [60,75,80,70]
+            },
+            {
+              "month": "September",
+              "percentage": 75.25,
+              "weekly": [61,89,71,80]
+            },
+            {
+              "month": "October",
+              "percentage": 82,
+              "weekly": [90,74,85,79]
+            },
+            {
+              "month": "November",
+              "percentage": 78.5,
+              "weekly": [84,70,71,89]
+            },
+            {
+              "month": "December",
+              "percentage": 73.25,
+              "weekly": [80,79,65,69]
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS76",
+          "fullSubjectName": "Project Phase 1",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 78.5,
+              "weekly": [84,70,71,89]
+            },
+            {
+              "month": "September",
+              "percentage": 71.25,
+              "weekly": [73,67,65,80]
+            },
+            {
+              "month": "October",
+              "percentage": 82,
+              "weekly": [90,74,85,79]
+            },
+            {
+              "month": "November",
+              "percentage": 71.25,
+              "weekly": [60,75,80,70]
+            },
+            {
+              "month": "December",
+              "percentage": 73,
+              "weekly": [63,73,75,81]
+            }
+          ]
+        }
+      ],
+      "lab": [
+        {
+          "subjectName": "15CS73L",
+          "fullSubjectName": "Web Technology Lab",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 73,
+              "weekly": [63,73,75,81]
+            },
+            {
+              "month": "September",
+              "percentage": 72,
+              "weekly": [60,71,80,77]
+            },
+            {
+              "month": "October",
+              "percentage": 71.25,
+              "weekly": [60,75,80,70]
+            },
+            {
+              "month": "November",
+              "percentage": 74,
+              "weekly": [65,75,83,73]
+            },
+            {
+              "month": "December",
+              "percentage": 72,
+              "weekly": [81,63,75,69]
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS74L",
+          "fullSubjectName": "Machine Learning Lab",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 77,
+              "weekly": [81,83,71,73]
+            },
+            {
+              "month": "September",
+              "percentage": 69.5,
+              "weekly": [74,68,71,65]
+            },
+            {
+              "month": "October",
+              "percentage": 76,
+              "weekly": [87,71,69,77]
+            },
+            {
+              "month": "November",
+              "percentage": 73,
+              "weekly": [63,73,75,81]
+            },
+            {
+              "month": "December",
+              "percentage": 71.25,
+              "weekly": [60,75,80,70]
+            }
+          ]
+        }
+      ]
+    },
+    "Internals": {
+      "theory": [
+        {
+          "subjectName": "15CS71",
+          "fullSubjectName": "Web Technology",
+          "IA1": 17,
+          "IA2": 14,
+          "IA3": 18
+        },
+        {
+          "subjectName": "15CS72",
+          "fullSubjectName": "Advanced Computer Architecture",
+          "IA1": 11,
+          "IA2": 12,
+          "IA3": 17
+        },
+        {
+          "subjectName": "15CS73",
+          "fullSubjectName": "Machine Learning",
+          "IA1": 19,
+          "IA2": 14,
+          "IA3": 17
+        },
+        {
+          "subjectName": "15CS74",
+          "fullSubjectName": "Natural Language Processing",
+          "IA1": 18,
+          "IA2": 18,
+          "IA3": 20
+        },
+        {
+          "subjectName": "15CS75",
+          "fullSubjectName": "Digital Image Processing",
+          "IA1": 12,
+          "IA2": 14,
+          "IA3": 18
+        },
+        {
+          "subjectName": "15CS76",
+          "fullSubjectName": "Project Phase 1",
+          "IA1": 14,
+          "IA2": 12,
+          "IA3": 16
+        }
+      ],
+      "lab": [
+        {
+          "subjectName": "15CS73L",
+          "fullSubjectName": "Web Technology Lab",
+          "IA1": 14,
+          "IA2": 16,
+          "IA3": 18
+        },
+        {
+          "subjectName": "15CS74L",
+          "fullSubjectName": "Machine Learning Lab",
+          "IA1": 20,
+          "IA2": 17,
+          "IA3": 20
+        }
+      ]
+    }
   },
   {
-    Branch: "COMPUTER SCIENCE",
-    Semester: 7,
-    Usn: "1AT15CS020",
-    Name: "Deepak V",
-    PhoneNo: 8147900416,
-    ParentNo: 9448683659,
-    Attendence:
-    [
-      {
-        SubjectName: "15CS71",
-        Percentage: 70,
-      },
-      {
-        SubjectName: "15CS72",
-        Percentage: 72,
-      },
-      {
-        SubjectName: "15CS73",
-        Percentage: 80,
-      },
-      {
-        SubjectName: "15CS74",
-        Percentage: 85,
-      },
-      {
-        SubjectName: "15CS75",
-        Percentage: 90,
-      },
-      {
-        SubjectName: "15CS76",
-        Percentage: 92,
-      },
-      {
-        SubjectName: "15CS73L",
-        Percentage: 60,
-      },
-      {
-        SubjectName: "15CS74L",
-        Percentage: 70,
-      }
-    ],
-    Internals:
-    [
-      {
-        SubjectName: "15CS71",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS72",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS73",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS74",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS75",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS76",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS73L",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS74L",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-    ]
+    "Branch": "COMPUTER SCIENCE",
+    "Semester": 7,
+    "Usn": "1AT15CS019",
+    "Name": "Deekshit Swamy",
+    "PhoneNo": 9035160720,
+    "ParentNo": 9448521360,
+    "Attendance": {
+      "theory": [
+        {
+          "subjectName": "15CS71",
+          "fullSubjectName": "Web Technology",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 74,
+              "weekly": [80,74,72,70]
+            },
+            {
+              "month": "September",
+              "percentage": 70.5,
+              "weekly": [70,74,68,70]
+            },
+            {
+              "month": "October",
+              "percentage": 82,
+              "weekly": [90,71,75,78]
+            },
+            {
+              "month": "November",
+              "percentage": 76.5,
+              "weekly": [82,90,85,83]
+            },
+            {
+              "month": "December",
+              "percentage": 84.5,
+              "weekly": [80,74,85,79]
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS72",
+          "fullSubjectName": "Advanced Computer Architecture",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 71.25,
+              "weekly": [60,75,80,70]
+            },
+            {
+              "month": "September",
+              "percentage": 76.75,
+              "weekly": [73,79,85,70]
+
+            },
+            {
+              "month": "October",
+              "percentage": 76.75,
+              "weekly": [70,85,75,77]
+
+            },
+            {
+              "month": "November",
+              "percentage": 75.5,
+              "weekly": [67,83,72,80]
+
+            },
+            {
+              "month": "December",
+              "percentage": 78.5,
+              "weekly": [80,74,71,89]
+
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS73",
+          "fullSubjectName": "Machine Learning",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 64,
+              "weekly": [55,62,67,72]
+
+            },
+            {
+              "month": "September",
+              "percentage": 78.5,
+              "weekly": [84,70,71,89]
+
+            },
+            {
+              "month": "October",
+              "percentage": 73.25,
+              "weekly": [80,79,65,69]
+
+            },
+            {
+              "month": "November",
+              "percentage": 72.75,
+              "weekly": [69,73,77,72]
+
+            },
+            {
+              "month": "December",
+              "percentage": 78.5,
+              "weekly": [80,74,71,89]
+
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS74",
+          "fullSubjectName": "Natural Language Processing",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 82,
+              "weekly": [90,74,85,79]
+            },
+            {
+              "month": "September",
+              "percentage": 73.25,
+              "weekly": [80,79,65,69]
+            },
+            {
+              "month": "October",
+              "percentage": 78.5,
+              "weekly": [84,70,71,89]
+            },
+            {
+              "month": "November",
+              "percentage": 84,
+              "weekly": [91,84,76,85]
+            },
+            {
+              "month": "December",
+              "percentage": 64,
+              "weekly": [55,62,67,72]
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS75",
+          "fullSubjectName": "Digital Image Processing",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 71.25,
+              "weekly": [60,75,80,70]
+            },
+            {
+              "month": "September",
+              "percentage": 75.25,
+              "weekly": [61,89,71,80]
+            },
+            {
+              "month": "October",
+              "percentage": 82,
+              "weekly": [90,74,85,79]
+            },
+            {
+              "month": "November",
+              "percentage": 78.5,
+              "weekly": [84,70,71,89]
+            },
+            {
+              "month": "December",
+              "percentage": 73.25,
+              "weekly": [80,79,65,69]
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS76",
+          "fullSubjectName": "Project Phase 1",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 78.5,
+              "weekly": [84,70,71,89]
+            },
+            {
+              "month": "September",
+              "percentage": 71.25,
+              "weekly": [73,67,65,80]
+            },
+            {
+              "month": "October",
+              "percentage": 82,
+              "weekly": [90,74,85,79]
+            },
+            {
+              "month": "November",
+              "percentage": 71.25,
+              "weekly": [60,75,80,70]
+            },
+            {
+              "month": "December",
+              "percentage": 73,
+              "weekly": [63,73,75,81]
+            }
+          ]
+        }
+      ],
+      "lab": [
+        {
+          "subjectName": "15CS73L",
+          "fullSubjectName": "Web Technology Lab",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 73,
+              "weekly": [63,73,75,81]
+            },
+            {
+              "month": "September",
+              "percentage": 72,
+              "weekly": [60,71,80,77]
+            },
+            {
+              "month": "October",
+              "percentage": 71.25,
+              "weekly": [60,75,80,70]
+            },
+            {
+              "month": "November",
+              "percentage": 74,
+              "weekly": [65,75,83,73]
+            },
+            {
+              "month": "December",
+              "percentage": 72,
+              "weekly": [81,63,75,69]
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS74L",
+          "fullSubjectName": "Machine Learning Lab",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 77,
+              "weekly": [81,83,71,73]
+            },
+            {
+              "month": "September",
+              "percentage": 69.5,
+              "weekly": [74,68,71,65]
+            },
+            {
+              "month": "October",
+              "percentage": 76,
+              "weekly": [87,71,69,77]
+            },
+            {
+              "month": "November",
+              "percentage": 73,
+              "weekly": [63,73,75,81]
+            },
+            {
+              "month": "December",
+              "percentage": 71.25,
+              "weekly": [60,75,80,70]
+            }
+          ]
+        }
+      ]
+    },
+    "Internals": {
+      "theory": [
+        {
+          "subjectName": "15CS71",
+          "fullSubjectName": "Web Technology",
+          "IA1": 17,
+          "IA2": 14,
+          "IA3": 18
+        },
+        {
+          "subjectName": "15CS72",
+          "fullSubjectName": "Advanced Computer Architecture",
+          "IA1": 11,
+          "IA2": 12,
+          "IA3": 17
+        },
+        {
+          "subjectName": "15CS73",
+          "fullSubjectName": "Machine Learning",
+          "IA1": 19,
+          "IA2": 14,
+          "IA3": 17
+        },
+        {
+          "subjectName": "15CS74",
+          "fullSubjectName": "Natural Language Processing",
+          "IA1": 18,
+          "IA2": 18,
+          "IA3": 20
+        },
+        {
+          "subjectName": "15CS75",
+          "fullSubjectName": "Digital Image Processing",
+          "IA1": 12,
+          "IA2": 14,
+          "IA3": 18
+        },
+        {
+          "subjectName": "15CS76",
+          "fullSubjectName": "Project Phase 1",
+          "IA1": 14,
+          "IA2": 12,
+          "IA3": 16
+        }
+      ],
+      "lab": [
+        {
+          "subjectName": "15CS73L",
+          "fullSubjectName": "Web Technology Lab",
+          "IA1": 14,
+          "IA2": 16,
+          "IA3": 18
+        },
+        {
+          "subjectName": "15CS74L",
+          "fullSubjectName": "Machine Learning Lab",
+          "IA1": 20,
+          "IA2": 17,
+          "IA3": 20
+        }
+      ]
+    }
   },
   {
-    Branch: "COMPUTER SCIENCE",
-    Semester: 7,
-    Usn: "1AT15CS020",
-    Name: "Deepak V",
-    PhoneNo: 8147900416,
-    ParentNo: 9448683659,
-    Attendence:
-    [
-      {
-        SubjectName: "15CS71",
-        Percentage: 70,
-      },
-      {
-        SubjectName: "15CS72",
-        Percentage: 72,
-      },
-      {
-        SubjectName: "15CS73",
-        Percentage: 80,
-      },
-      {
-        SubjectName: "15CS74",
-        Percentage: 85,
-      },
-      {
-        SubjectName: "15CS75",
-        Percentage: 90,
-      },
-      {
-        SubjectName: "15CS76",
-        Percentage: 92,
-      },
-      {
-        SubjectName: "15CS73L",
-        Percentage: 60,
-      },
-      {
-        SubjectName: "15CS74L",
-        Percentage: 70,
-      }
-    ],
-    Internals:
-    [
-      {
-        SubjectName: "15CS71",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS72",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS73",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS74",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS75",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS76",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS73L",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS74L",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-    ]
+    "Branch": "COMPUTER SCIENCE",
+    "Semester": 7,
+    "Usn": "1AT15CS048",
+    "Name": "Megha Kumari",
+    "PhoneNo": 8050152567,
+    "ParentNo": 9483678921,
+    "Attendance": {
+      "theory": [
+        {
+          "subjectName": "15CS71",
+          "fullSubjectName": "Web Technology",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 74,
+              "weekly": [80,74,72,70]
+            },
+            {
+              "month": "September",
+              "percentage": 70.5,
+              "weekly": [70,74,68,70]
+            },
+            {
+              "month": "October",
+              "percentage": 82,
+              "weekly": [90,71,75,78]
+            },
+            {
+              "month": "November",
+              "percentage": 76.5,
+              "weekly": [82,90,85,83]
+            },
+            {
+              "month": "December",
+              "percentage": 84.5,
+              "weekly": [80,74,85,79]
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS72",
+          "fullSubjectName": "Advanced Computer Architecture",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 71.25,
+              "weekly": [60,75,80,70]
+            },
+            {
+              "month": "September",
+              "percentage": 76.75,
+              "weekly": [73,79,85,70]
+
+            },
+            {
+              "month": "October",
+              "percentage": 76.75,
+              "weekly": [70,85,75,77]
+
+            },
+            {
+              "month": "November",
+              "percentage": 75.5,
+              "weekly": [67,83,72,80]
+
+            },
+            {
+              "month": "December",
+              "percentage": 78.5,
+              "weekly": [80,74,71,89]
+
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS73",
+          "fullSubjectName": "Machine Learning",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 64,
+              "weekly": [55,62,67,72]
+
+            },
+            {
+              "month": "September",
+              "percentage": 78.5,
+              "weekly": [84,70,71,89]
+
+            },
+            {
+              "month": "October",
+              "percentage": 73.25,
+              "weekly": [80,79,65,69]
+
+            },
+            {
+              "month": "November",
+              "percentage": 72.75,
+              "weekly": [69,73,77,72]
+
+            },
+            {
+              "month": "December",
+              "percentage": 78.5,
+              "weekly": [80,74,71,89]
+
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS74",
+          "fullSubjectName": "Natural Language Processing",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 82,
+              "weekly": [90,74,85,79]
+            },
+            {
+              "month": "September",
+              "percentage": 73.25,
+              "weekly": [80,79,65,69]
+            },
+            {
+              "month": "October",
+              "percentage": 78.5,
+              "weekly": [84,70,71,89]
+            },
+            {
+              "month": "November",
+              "percentage": 84,
+              "weekly": [91,84,76,85]
+            },
+            {
+              "month": "December",
+              "percentage": 64,
+              "weekly": [55,62,67,72]
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS75",
+          "fullSubjectName": "Digital Image Processing",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 71.25,
+              "weekly": [60,75,80,70]
+            },
+            {
+              "month": "September",
+              "percentage": 75.25,
+              "weekly": [61,89,71,80]
+            },
+            {
+              "month": "October",
+              "percentage": 82,
+              "weekly": [90,74,85,79]
+            },
+            {
+              "month": "November",
+              "percentage": 78.5,
+              "weekly": [84,70,71,89]
+            },
+            {
+              "month": "December",
+              "percentage": 73.25,
+              "weekly": [80,79,65,69]
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS76",
+          "fullSubjectName": "Project Phase 1",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 78.5,
+              "weekly": [84,70,71,89]
+            },
+            {
+              "month": "September",
+              "percentage": 71.25,
+              "weekly": [73,67,65,80]
+            },
+            {
+              "month": "October",
+              "percentage": 82,
+              "weekly": [90,74,85,79]
+            },
+            {
+              "month": "November",
+              "percentage": 71.25,
+              "weekly": [60,75,80,70]
+            },
+            {
+              "month": "December",
+              "percentage": 73,
+              "weekly": [63,73,75,81]
+            }
+          ]
+        }
+      ],
+      "lab": [
+        {
+          "subjectName": "15CS73L",
+          "fullSubjectName": "Web Technology Lab",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 73,
+              "weekly": [63,73,75,81]
+            },
+            {
+              "month": "September",
+              "percentage": 72,
+              "weekly": [60,71,80,77]
+            },
+            {
+              "month": "October",
+              "percentage": 71.25,
+              "weekly": [60,75,80,70]
+            },
+            {
+              "month": "November",
+              "percentage": 74,
+              "weekly": [65,75,83,73]
+            },
+            {
+              "month": "December",
+              "percentage": 72,
+              "weekly": [81,63,75,69]
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS74L",
+          "fullSubjectName": "Machine Learning Lab",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 77,
+              "weekly": [81,83,71,73]
+            },
+            {
+              "month": "September",
+              "percentage": 69.5,
+              "weekly": [74,68,71,65]
+            },
+            {
+              "month": "October",
+              "percentage": 76,
+              "weekly": [87,71,69,77]
+            },
+            {
+              "month": "November",
+              "percentage": 73,
+              "weekly": [63,73,75,81]
+            },
+            {
+              "month": "December",
+              "percentage": 71.25,
+              "weekly": [60,75,80,70]
+            }
+          ]
+        }
+      ]
+    },
+    "Internals": {
+      "theory": [
+        {
+          "subjectName": "15CS71",
+          "fullSubjectName": "Web Technology",
+          "IA1": 17,
+          "IA2": 14,
+          "IA3": 18
+        },
+        {
+          "subjectName": "15CS72",
+          "fullSubjectName": "Advanced Computer Architecture",
+          "IA1": 11,
+          "IA2": 12,
+          "IA3": 17
+        },
+        {
+          "subjectName": "15CS73",
+          "fullSubjectName": "Machine Learning",
+          "IA1": 19,
+          "IA2": 14,
+          "IA3": 17
+        },
+        {
+          "subjectName": "15CS74",
+          "fullSubjectName": "Natural Language Processing",
+          "IA1": 18,
+          "IA2": 18,
+          "IA3": 20
+        },
+        {
+          "subjectName": "15CS75",
+          "fullSubjectName": "Digital Image Processing",
+          "IA1": 12,
+          "IA2": 14,
+          "IA3": 18
+        },
+        {
+          "subjectName": "15CS76",
+          "fullSubjectName": "Project Phase 1",
+          "IA1": 14,
+          "IA2": 12,
+          "IA3": 16
+        }
+      ],
+      "lab": [
+        {
+          "subjectName": "15CS73L",
+          "fullSubjectName": "Web Technology Lab",
+          "IA1": 14,
+          "IA2": 16,
+          "IA3": 18
+        },
+        {
+          "subjectName": "15CS74L",
+          "fullSubjectName": "Machine Learning Lab",
+          "IA1": 20,
+          "IA2": 17,
+          "IA3": 20
+        }
+      ]
+    }
   },
   {
-    Branch: "COMPUTER SCIENCE",
-    Semester: 7,
-    Usn: "1AT15CS020",
-    Name: "Deepak V",
-    PhoneNo: 8147900416,
-    ParentNo: 9448683659,
-    Attendence:
-    [
-      {
-        SubjectName: "15CS71",
-        Percentage: 70,
-      },
-      {
-        SubjectName: "15CS72",
-        Percentage: 72,
-      },
-      {
-        SubjectName: "15CS73",
-        Percentage: 80,
-      },
-      {
-        SubjectName: "15CS74",
-        Percentage: 85,
-      },
-      {
-        SubjectName: "15CS75",
-        Percentage: 90,
-      },
-      {
-        SubjectName: "15CS76",
-        Percentage: 92,
-      },
-      {
-        SubjectName: "15CS73L",
-        Percentage: 60,
-      },
-      {
-        SubjectName: "15CS74L",
-        Percentage: 70,
-      }
-    ],
-    Internals:
-    [
-      {
-        SubjectName: "15CS71",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS72",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS73",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS74",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS75",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS76",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS73L",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS74L",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-    ]
+    "Branch": "COMPUTER SCIENCE",
+    "Semester": 7,
+    "Usn": "1AT15CS058",
+    "Name": "Nirmala D V",
+    "PhoneNo": 9538174762,
+    "ParentNo": 9483152498,
+    "Attendance": {
+      "theory": [
+        {
+          "subjectName": "15CS71",
+          "fullSubjectName": "Web Technology",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 74,
+              "weekly": [80,74,72,70]
+            },
+            {
+              "month": "September",
+              "percentage": 70.5,
+              "weekly": [70,74,68,70]
+            },
+            {
+              "month": "October",
+              "percentage": 82,
+              "weekly": [90,71,75,78]
+            },
+            {
+              "month": "November",
+              "percentage": 76.5,
+              "weekly": [82,90,85,83]
+            },
+            {
+              "month": "December",
+              "percentage": 84.5,
+              "weekly": [80,74,85,79]
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS72",
+          "fullSubjectName": "Advanced Computer Architecture",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 71.25,
+              "weekly": [60,75,80,70]
+            },
+            {
+              "month": "September",
+              "percentage": 76.75,
+              "weekly": [73,79,85,70]
+
+            },
+            {
+              "month": "October",
+              "percentage": 76.75,
+              "weekly": [70,85,75,77]
+
+            },
+            {
+              "month": "November",
+              "percentage": 75.5,
+              "weekly": [67,83,72,80]
+
+            },
+            {
+              "month": "December",
+              "percentage": 78.5,
+              "weekly": [80,74,71,89]
+
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS73",
+          "fullSubjectName": "Machine Learning",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 64,
+              "weekly": [55,62,67,72]
+
+            },
+            {
+              "month": "September",
+              "percentage": 78.5,
+              "weekly": [84,70,71,89]
+
+            },
+            {
+              "month": "October",
+              "percentage": 73.25,
+              "weekly": [80,79,65,69]
+
+            },
+            {
+              "month": "November",
+              "percentage": 72.75,
+              "weekly": [69,73,77,72]
+
+            },
+            {
+              "month": "December",
+              "percentage": 78.5,
+              "weekly": [80,74,71,89]
+
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS74",
+          "fullSubjectName": "Natural Language Processing",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 82,
+              "weekly": [90,74,85,79]
+            },
+            {
+              "month": "September",
+              "percentage": 73.25,
+              "weekly": [80,79,65,69]
+            },
+            {
+              "month": "October",
+              "percentage": 78.5,
+              "weekly": [84,70,71,89]
+            },
+            {
+              "month": "November",
+              "percentage": 84,
+              "weekly": [91,84,76,85]
+            },
+            {
+              "month": "December",
+              "percentage": 64,
+              "weekly": [55,62,67,72]
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS75",
+          "fullSubjectName": "Digital Image Processing",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 71.25,
+              "weekly": [60,75,80,70]
+            },
+            {
+              "month": "September",
+              "percentage": 75.25,
+              "weekly": [61,89,71,80]
+            },
+            {
+              "month": "October",
+              "percentage": 82,
+              "weekly": [90,74,85,79]
+            },
+            {
+              "month": "November",
+              "percentage": 78.5,
+              "weekly": [84,70,71,89]
+            },
+            {
+              "month": "December",
+              "percentage": 73.25,
+              "weekly": [80,79,65,69]
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS76",
+          "fullSubjectName": "Project Phase 1",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 78.5,
+              "weekly": [84,70,71,89]
+            },
+            {
+              "month": "September",
+              "percentage": 71.25,
+              "weekly": [73,67,65,80]
+            },
+            {
+              "month": "October",
+              "percentage": 82,
+              "weekly": [90,74,85,79]
+            },
+            {
+              "month": "November",
+              "percentage": 71.25,
+              "weekly": [60,75,80,70]
+            },
+            {
+              "month": "December",
+              "percentage": 73,
+              "weekly": [63,73,75,81]
+            }
+          ]
+        }
+      ],
+      "lab": [
+        {
+          "subjectName": "15CS73L",
+          "fullSubjectName": "Web Technology Lab",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 73,
+              "weekly": [63,73,75,81]
+            },
+            {
+              "month": "September",
+              "percentage": 72,
+              "weekly": [60,71,80,77]
+            },
+            {
+              "month": "October",
+              "percentage": 71.25,
+              "weekly": [60,75,80,70]
+            },
+            {
+              "month": "November",
+              "percentage": 74,
+              "weekly": [65,75,83,73]
+            },
+            {
+              "month": "December",
+              "percentage": 72,
+              "weekly": [81,63,75,69]
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS74L",
+          "fullSubjectName": "Machine Learning Lab",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 77,
+              "weekly": [81,83,71,73]
+            },
+            {
+              "month": "September",
+              "percentage": 69.5,
+              "weekly": [74,68,71,65]
+            },
+            {
+              "month": "October",
+              "percentage": 76,
+              "weekly": [87,71,69,77]
+            },
+            {
+              "month": "November",
+              "percentage": 73,
+              "weekly": [63,73,75,81]
+            },
+            {
+              "month": "December",
+              "percentage": 71.25,
+              "weekly": [60,75,80,70]
+            }
+          ]
+        }
+      ]
+    },
+    "Internals": {
+      "theory": [
+        {
+          "subjectName": "15CS71",
+          "fullSubjectName": "Web Technology",
+          "IA1": 17,
+          "IA2": 14,
+          "IA3": 18
+        },
+        {
+          "subjectName": "15CS72",
+          "fullSubjectName": "Advanced Computer Architecture",
+          "IA1": 11,
+          "IA2": 12,
+          "IA3": 17
+        },
+        {
+          "subjectName": "15CS73",
+          "fullSubjectName": "Machine Learning",
+          "IA1": 19,
+          "IA2": 14,
+          "IA3": 17
+        },
+        {
+          "subjectName": "15CS74",
+          "fullSubjectName": "Natural Language Processing",
+          "IA1": 18,
+          "IA2": 18,
+          "IA3": 20
+        },
+        {
+          "subjectName": "15CS75",
+          "fullSubjectName": "Digital Image Processing",
+          "IA1": 12,
+          "IA2": 14,
+          "IA3": 18
+        },
+        {
+          "subjectName": "15CS76",
+          "fullSubjectName": "Project Phase 1",
+          "IA1": 14,
+          "IA2": 12,
+          "IA3": 16
+        }
+      ],
+      "lab": [
+        {
+          "subjectName": "15CS73L",
+          "fullSubjectName": "Web Technology Lab",
+          "IA1": 14,
+          "IA2": 16,
+          "IA3": 18
+        },
+        {
+          "subjectName": "15CS74L",
+          "fullSubjectName": "Machine Learning Lab",
+          "IA1": 20,
+          "IA2": 17,
+          "IA3": 20
+        }
+      ]
+    }
   },
   {
-    Branch: "COMPUTER SCIENCE",
-    Semester: 7,
-    Usn: "1AT15CS020",
-    Name: "Deepak V",
-    PhoneNo: 8147900416,
-    ParentNo: 9448683659,
-    Attendence:
-    [
-      {
-        SubjectName: "15CS71",
-        Percentage: 70,
-      },
-      {
-        SubjectName: "15CS72",
-        Percentage: 72,
-      },
-      {
-        SubjectName: "15CS73",
-        Percentage: 80,
-      },
-      {
-        SubjectName: "15CS74",
-        Percentage: 85,
-      },
-      {
-        SubjectName: "15CS75",
-        Percentage: 90,
-      },
-      {
-        SubjectName: "15CS76",
-        Percentage: 92,
-      },
-      {
-        SubjectName: "15CS73L",
-        Percentage: 60,
-      },
-      {
-        SubjectName: "15CS74L",
-        Percentage: 70,
-      }
-    ],
-    Internals:
-    [
-      {
-        SubjectName: "15CS71",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS72",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS73",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS74",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS75",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS76",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS73L",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS74L",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-    ]
-  },
-  {
-    Branch: "COMPUTER SCIENCE",
-    Semester: 7,
-    Usn: "1AT15CS020",
-    Name: "Deepak V",
-    PhoneNo: 8147900416,
-    ParentNo: 9448683659,
-    Attendence:
-    [
-      {
-        SubjectName: "15CS71",
-        Percentage: 70,
-      },
-      {
-        SubjectName: "15CS72",
-        Percentage: 72,
-      },
-      {
-        SubjectName: "15CS73",
-        Percentage: 80,
-      },
-      {
-        SubjectName: "15CS74",
-        Percentage: 85,
-      },
-      {
-        SubjectName: "15CS75",
-        Percentage: 90,
-      },
-      {
-        SubjectName: "15CS76",
-        Percentage: 92,
-      },
-      {
-        SubjectName: "15CS73L",
-        Percentage: 60,
-      },
-      {
-        SubjectName: "15CS74L",
-        Percentage: 70,
-      }
-    ],
-    Internals:
-    [
-      {
-        SubjectName: "15CS71",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS72",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS73",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS74",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS75",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS76",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS73L",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS74L",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-    ]
-  },
-  {
-    Branch: "COMPUTER SCIENCE",
-    Semester: 7,
-    Usn: "1AT15CS020",
-    Name: "Deepak V",
-    PhoneNo: 8147900416,
-    ParentNo: 9448683659,
-    Attendence:
-    [
-      {
-        SubjectName: "15CS71",
-        Percentage: 70,
-      },
-      {
-        SubjectName: "15CS72",
-        Percentage: 72,
-      },
-      {
-        SubjectName: "15CS73",
-        Percentage: 80,
-      },
-      {
-        SubjectName: "15CS74",
-        Percentage: 85,
-      },
-      {
-        SubjectName: "15CS75",
-        Percentage: 90,
-      },
-      {
-        SubjectName: "15CS76",
-        Percentage: 92,
-      },
-      {
-        SubjectName: "15CS73L",
-        Percentage: 60,
-      },
-      {
-        SubjectName: "15CS74L",
-        Percentage: 70,
-      }
-    ],
-    Internals:
-    [
-      {
-        SubjectName: "15CS71",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS72",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS73",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS74",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS75",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS76",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS73L",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-      {
-        SubjectName: "15CS74L",
-        IA1: 70,
-        IA2: 73,
-        IA3: 80,
-      },
-    ]
-  },
+    "Branch": "COMPUTER SCIENCE",
+    "Semester": 7,
+    "Usn": "1AT15CS026",
+    "Name": "Gurunath Bhat",
+    "PhoneNo": 7099553287,
+    "ParentNo": 8050412896,
+    "Attendance": {
+      "theory": [
+        {
+          "subjectName": "15CS71",
+          "fullSubjectName": "Web Technology",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 74,
+              "weekly": [80,74,72,70]
+            },
+            {
+              "month": "September",
+              "percentage": 70.5,
+              "weekly": [70,74,68,70]
+            },
+            {
+              "month": "October",
+              "percentage": 82,
+              "weekly": [90,71,75,78]
+            },
+            {
+              "month": "November",
+              "percentage": 76.5,
+              "weekly": [82,90,85,83]
+            },
+            {
+              "month": "December",
+              "percentage": 84.5,
+              "weekly": [80,74,85,79]
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS72",
+          "fullSubjectName": "Advanced Computer Architecture",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 71.25,
+              "weekly": [60,75,80,70]
+            },
+            {
+              "month": "September",
+              "percentage": 76.75,
+              "weekly": [73,79,85,70]
+
+            },
+            {
+              "month": "October",
+              "percentage": 76.75,
+              "weekly": [70,85,75,77]
+
+            },
+            {
+              "month": "November",
+              "percentage": 75.5,
+              "weekly": [67,83,72,80]
+
+            },
+            {
+              "month": "December",
+              "percentage": 78.5,
+              "weekly": [80,74,71,89]
+
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS73",
+          "fullSubjectName": "Machine Learning",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 64,
+              "weekly": [55,62,67,72]
+
+            },
+            {
+              "month": "September",
+              "percentage": 78.5,
+              "weekly": [84,70,71,89]
+
+            },
+            {
+              "month": "October",
+              "percentage": 73.25,
+              "weekly": [80,79,65,69]
+
+            },
+            {
+              "month": "November",
+              "percentage": 72.75,
+              "weekly": [69,73,77,72]
+
+            },
+            {
+              "month": "December",
+              "percentage": 78.5,
+              "weekly": [80,74,71,89]
+
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS74",
+          "fullSubjectName": "Natural Language Processing",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 82,
+              "weekly": [90,74,85,79]
+            },
+            {
+              "month": "September",
+              "percentage": 73.25,
+              "weekly": [80,79,65,69]
+            },
+            {
+              "month": "October",
+              "percentage": 78.5,
+              "weekly": [84,70,71,89]
+            },
+            {
+              "month": "November",
+              "percentage": 84,
+              "weekly": [91,84,76,85]
+            },
+            {
+              "month": "December",
+              "percentage": 64,
+              "weekly": [55,62,67,72]
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS75",
+          "fullSubjectName": "Digital Image Processing",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 71.25,
+              "weekly": [60,75,80,70]
+            },
+            {
+              "month": "September",
+              "percentage": 75.25,
+              "weekly": [61,89,71,80]
+            },
+            {
+              "month": "October",
+              "percentage": 82,
+              "weekly": [90,74,85,79]
+            },
+            {
+              "month": "November",
+              "percentage": 78.5,
+              "weekly": [84,70,71,89]
+            },
+            {
+              "month": "December",
+              "percentage": 73.25,
+              "weekly": [80,79,65,69]
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS76",
+          "fullSubjectName": "Project Phase 1",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 78.5,
+              "weekly": [84,70,71,89]
+            },
+            {
+              "month": "September",
+              "percentage": 71.25,
+              "weekly": [73,67,65,80]
+            },
+            {
+              "month": "October",
+              "percentage": 82,
+              "weekly": [90,74,85,79]
+            },
+            {
+              "month": "November",
+              "percentage": 71.25,
+              "weekly": [60,75,80,70]
+            },
+            {
+              "month": "December",
+              "percentage": 73,
+              "weekly": [63,73,75,81]
+            }
+          ]
+        }
+      ],
+      "lab": [
+        {
+          "subjectName": "15CS73L",
+          "fullSubjectName": "Web Technology Lab",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 73,
+              "weekly": [63,73,75,81]
+            },
+            {
+              "month": "September",
+              "percentage": 72,
+              "weekly": [60,71,80,77]
+            },
+            {
+              "month": "October",
+              "percentage": 71.25,
+              "weekly": [60,75,80,70]
+            },
+            {
+              "month": "November",
+              "percentage": 74,
+              "weekly": [65,75,83,73]
+            },
+            {
+              "month": "December",
+              "percentage": 72,
+              "weekly": [81,63,75,69]
+            }
+          ]
+        },
+        {
+          "subjectName": "15CS74L",
+          "fullSubjectName": "Machine Learning Lab",
+          "Percentages": [
+            {
+              "month": "August",
+              "percentage": 77,
+              "weekly": [81,83,71,73]
+            },
+            {
+              "month": "September",
+              "percentage": 69.5,
+              "weekly": [74,68,71,65]
+            },
+            {
+              "month": "October",
+              "percentage": 76,
+              "weekly": [87,71,69,77]
+            },
+            {
+              "month": "November",
+              "percentage": 73,
+              "weekly": [63,73,75,81]
+            },
+            {
+              "month": "December",
+              "percentage": 71.25,
+              "weekly": [60,75,80,70]
+            }
+          ]
+        }
+      ]
+    },
+    "Internals": {
+      "theory": [
+        {
+          "subjectName": "15CS71",
+          "fullSubjectName": "Web Technology",
+          "IA1": 17,
+          "IA2": 14,
+          "IA3": 18
+        },
+        {
+          "subjectName": "15CS72",
+          "fullSubjectName": "Advanced Computer Architecture",
+          "IA1": 11,
+          "IA2": 12,
+          "IA3": 17
+        },
+        {
+          "subjectName": "15CS73",
+          "fullSubjectName": "Machine Learning",
+          "IA1": 19,
+          "IA2": 14,
+          "IA3": 17
+        },
+        {
+          "subjectName": "15CS74",
+          "fullSubjectName": "Natural Language Processing",
+          "IA1": 18,
+          "IA2": 18,
+          "IA3": 20
+        },
+        {
+          "subjectName": "15CS75",
+          "fullSubjectName": "Digital Image Processing",
+          "IA1": 12,
+          "IA2": 14,
+          "IA3": 18
+        },
+        {
+          "subjectName": "15CS76",
+          "fullSubjectName": "Project Phase 1",
+          "IA1": 14,
+          "IA2": 12,
+          "IA3": 16
+        }
+      ],
+      "lab": [
+        {
+          "subjectName": "15CS73L",
+          "fullSubjectName": "Web Technology Lab",
+          "IA1": 14,
+          "IA2": 16,
+          "IA3": 18
+        },
+        {
+          "subjectName": "15CS74L",
+          "fullSubjectName": "Machine Learning Lab",
+          "IA1": 20,
+          "IA2": 17,
+          "IA3": 20
+        }
+      ]
+    }
+  }
 ]
