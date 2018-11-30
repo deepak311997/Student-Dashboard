@@ -122,10 +122,10 @@ class DAGMainComponent extends React.Component {
         label: 'Calender of Events',
         to: 'calofevents'
       },
-      {
-        label: 'Class Time Table',
-        to: 'timetable',
-      },
+      // {
+      //   label: 'Class Time Table',
+      //   to: 'timetable',
+      // },
       {
         label: 'Notes',
         to: 'notes',
