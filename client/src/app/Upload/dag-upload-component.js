@@ -20,17 +20,19 @@ class DAGUploadComponent extends React.Component {
   handleUpload = () => {
     const { files } = this.state;
 
-    this.data = [];
-    Object.keys(files).forEach((index) => {
-      const file = files[index];
-      const reader = new FileReader();
+    if(files.length) {
+      this.data = [];
+      Object.keys(files).forEach((index) => {
+        const file = files[index];
+        const reader = new FileReader();
 
-      reader.onload = () => {
-        this.data.push({ 'fileName': file.name, content: PapaParse.parse(reader.result).data });
-      };
-      reader.readAsBinaryString(file);
-    });
-    axios.post('/api/upload', this.data[0].content).then(response => response.data).catch((error) => console.log(error));
+        reader.onload = () => {
+          this.data.push({ 'fileName': file.name, content: PapaParse.parse(reader.result).data });
+        };
+        reader.readAsBinaryString(file);
+      });
+      axios.post('/api/upload', this.data[0].content).then(response => response.data).catch((error) => console.log(error));
+    }
   };
 
   handleChange = (event) => {

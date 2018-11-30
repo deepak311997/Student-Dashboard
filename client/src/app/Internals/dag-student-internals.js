@@ -49,7 +49,7 @@ class DAGInternalsComponent extends React.Component {
     this.subjects.forEach((subject, index) => {
       this.rand = Math.random() * 15;
       this.content.push(
-          <Grid item={true} sm={6} md={6} lg={6}>
+          <Grid item={true} sm={4} md={4} lg={4}>
             <Paper style={{margin: 20, padding: 32}}>
             <DAGHighchartComponent
               containerId={subject.subjectName}

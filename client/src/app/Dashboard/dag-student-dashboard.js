@@ -69,7 +69,9 @@ class DAGStudentDashboard extends React.Component {
     this.charts = [];
       this.chartData.forEach((subjects, index) => {
         this.charts.push(
+          <Grid key={`C${index}`} item={true} sm={6} md={6} lg={6}>
             <DAGChartComponent key={chartIds[index]} chartId={chartIds[index]} chartData={this.chartData[index]}/>
+          </Grid>
         );
     });
       return this.charts;
@@ -119,7 +121,9 @@ class DAGStudentDashboard extends React.Component {
     this.charts = [];
     this.chartData.forEach((subjects, index) => {
       this.charts.push(
-        <DAGChartComponent key={chartIds[index]} chartId={chartIds[index]} chartData={this.chartData[index]}/>
+        <Grid key={`C2${index}`} item={true} sm={6} md={6} lg={6}>
+          <DAGChartComponent key={chartIds[index]} chartId={chartIds[index]} chartData={this.chartData[index]}/>
+        </Grid>
       );
     });
     return this.charts;
@@ -131,10 +135,10 @@ class DAGStudentDashboard extends React.Component {
     return (
       <div>
         {!loading ?
-          <div style={{display: 'flex', flexWrap: 'wrap', justifyContent: 'center' }}>
+          <Grid container={true} spacing={16}>
             {this.getAttendanceCharts()}
             {this.getInternalsCharts()}
-          </div>
+          </Grid>
          :
           <LoadingContainer />
         }

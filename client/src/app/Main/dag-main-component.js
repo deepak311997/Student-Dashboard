@@ -96,6 +96,11 @@ const styles = theme => ({
   selected: {
     backgroundColor: 'white !important',
   },
+  disable: {
+    pointerEvents: 'none',
+    backgroundColor: '#000',
+    color: '#FFF '
+  },
 });
 
 class DAGMainComponent extends React.Component {
@@ -104,6 +109,7 @@ class DAGMainComponent extends React.Component {
     this.state = {
       open: false,
       selectedTab: 0,
+      tabText: 'Dashboard',
     };
     this.sidebarOptions = [
       {
@@ -131,6 +137,10 @@ class DAGMainComponent extends React.Component {
         to: 'notes',
       },
       {
+        label: 'Upload',
+        to: 'upload',
+      },
+      {
         label: 'About Us',
         to: 'aboutus',
       },
@@ -145,16 +155,15 @@ class DAGMainComponent extends React.Component {
     this.setState({ open: false });
   };
 
-  updateSelectedTab(selectedIndex) {
-    this.setState({ selectedTab: selectedIndex, open: false });
+  updateSelectedTab(selectedIndex, text) {
+    this.setState({ selectedTab: selectedIndex, open: false, tabText: text});
   }
 
   render() {
     const { classes, theme } = this.props;
-    const { open, selectedTab } = this.state;
+    const { open, selectedTab, tabText } = this.state;
 
     return (
-      <Router>
       <div className={classes.root}>
         <CssBaseline />
         <AppBar
@@ -173,8 +182,8 @@ class DAGMainComponent extends React.Component {
               <MenuIcon />
             </IconButton>
             <img src={'./img/logo.png'} style={{ height: 40 }}/>
+            <Typography style={{fontFamily: 'Ossb', fontSize: 20, paddingLeft: 20}}>{tabText}</Typography>
           </Toolbar>
-
         </AppBar>
         <Drawer
           className={classes.drawer}
@@ -198,9 +207,14 @@ class DAGMainComponent extends React.Component {
                 exact={true}
                 to={`${basePath}/${option.to}`}
                 style={{textDecoration: 'none'}}
-                onClick={this.updateSelectedTab.bind(this,index)}
+                onClick={this.updateSelectedTab.bind(this,index,option.label)}
+                className={`${(!window.config.admin && option.label === 'Upload') ? classes.disable : null}`}
               >
-              <MenuItem classes={{selected: classes.selected}} button selected={selectedTab === index}>
+              <MenuItem
+                classes={{selected: classes.selected}}
+                button
+                selected={selectedTab === index}
+                >
                 <Typography className={`${selectedTab === index ? '' : classes.listLabel}`}>{option.label}</Typography>
               </MenuItem>
               </NavLink>
@@ -213,10 +227,8 @@ class DAGMainComponent extends React.Component {
           })}
         >
           <div className={classes.drawerHeader} />
-          <DAGHeaderRoutes/>
         </main>
       </div>
-      </Router>
     );
   }
 }
